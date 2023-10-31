@@ -1,0 +1,24 @@
+---
+title: "Práctica para Chi Cuadrado y Test de Hipótesis"
+format: revealjs
+editor: visual
+---
+
+## Ejercicio 1
+
+$\text{El gerente de control de calidad de una empresa de concreto sabe que} \\ \text{la proporción ideal de ingredientes secos para hacer concreto es de} \\ \text{1 parte cemento, 2 partes de arena, 3 partes de grava.} \\ \text{El gerente decide probar la calidad de su proceso de fabricación} \\ \text{seleccionando al azar un lote que se esta mezclando y midiendo la} \\ \text{cantidad de cada ingrediente que se agrega para hacer el nuevo lote.} \\ \text{El lote contiene } 5m^3 de \ cemento, \  9m^3 \ de \ arena \ y \ 10m^3 de \ grava. \\ \text{Determinar si la muestra del gerente es consistente con la razón ideal} \\ \text{usando el } \chi^2 \text{valor y un 0,05  de nivel de significancia.}$
+
+## Ejercicio 1 resolución
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```

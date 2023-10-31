@@ -1,0 +1,13 @@
+project:
+  title: "ChiCuadradoTest"
+  type: website
+
+editor: visual
+
+website: 
+  title: "Pruebas Chi Cuadrado"
+  navbar: 
+    left:
+    - ChiCuadradoTest.qmd
+  
+
